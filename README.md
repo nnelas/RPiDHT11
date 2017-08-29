@@ -1,0 +1,1 @@
+Programa em C que lê dados de temperatura e humidade através de um Raspberry Pi e que guarda esses dados em memória ou para uma USB flash drive, caso presente.
